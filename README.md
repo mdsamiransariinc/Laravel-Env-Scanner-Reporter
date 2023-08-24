@@ -4,8 +4,11 @@ This Tool can be used to detect Env vulnerability in your laravel website framew
 
 # Install
 git clone https://github.com/mdsamiransariinc/Laravel-Env-Scanner-Reporter.git
+
 cd Laravel-Env-Scanner-Reporter
+
 python Scanner.py
+
 
 # Usage
 
